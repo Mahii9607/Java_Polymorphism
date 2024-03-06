@@ -1,0 +1,11 @@
+Electronics:
+Name: Dell
+Description: High-performance laptop
+Price: 12000
+Discounted Price: $10800.0
+
+Clothing:
+Name: Likra
+Description: Casual shirt
+Price: 3000
+Discounted Price: $3000.0
